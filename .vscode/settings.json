@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "editor.wrappingIndent": "indent",
+    "editor.insertSpaces": true,
+    "editor.foldingStrategy": "indentation",
+    "prettier.useTabs": true,
+    "editor.tabSize": 4,
+    "prettier.tabWidth": 4
+}
